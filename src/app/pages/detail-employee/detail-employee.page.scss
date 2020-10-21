@@ -1,0 +1,45 @@
+.avatar{
+  width: 200px;
+  height: 200px;
+  -webkit-border-radius:50%;
+  border-radius: 50%;
+  background-color: #bba08d;
+}
+ion-title{
+		top:10%;
+		font-size: 1.1em;
+		width: 100%;
+		font-weight: bolder;
+		color: #6B3909;
+	}
+
+ion-card  {
+  border-color: #E8E8E8;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20;
+
+  // padding: 10,10;
+}
+ion-card-title{
+  // font-size: 1.0rem;
+  text-align: center;
+}
+ion-card-content{
+  text-align: center;
+  font-size: 0.5rem;
+
+}
+.color-icon{
+  color: #bba08d;
+}
+.color-woman{
+  color: #e040a3;
+}
+
+img{
+height: 70vh;
+width: auto;
+margin: auto;
+display: block;
+}

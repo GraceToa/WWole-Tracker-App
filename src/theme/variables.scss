@@ -1,8 +1,15 @@
 // Ionic Variables and Theming. For more info, please see:
 // http://ionicframework.com/docs/theming/
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700');
 
 /** Ionic CSS Variables **/
-:root {
+:root,
+// :root[mode=ios],
+// :root[mode=md]
+ {
+
+ //  --ion-font-family: "Palatino", "Times New Roman", serif !important;
+ // font-family: "Palatino", "Times New Roman", serif !important;
   /** primary **/
   --ion-color-primary: #3880ff;
   --ion-color-primary-rgb: 56, 128, 255;
@@ -229,4 +236,5 @@
 
     --ion-card-background: #1e1e1e;
   }
+
 }

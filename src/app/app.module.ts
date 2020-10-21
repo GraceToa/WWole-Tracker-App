@@ -22,7 +22,7 @@ import {EmployeesService} from "../providers/employees.service";
     StatusBar,
     SplashScreen,
     EmployeesService,
-     IonInfiniteScroll,
+    IonInfiniteScroll,
     IonVirtualScroll,
     AlertController,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }

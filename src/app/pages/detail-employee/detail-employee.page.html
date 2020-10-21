@@ -1,0 +1,40 @@
+<ion-header>
+  <ion-toolbar >
+      <ion-buttons slot= "start" (click)="goBack()">
+          <ion-icon name="arrow-back" style="color: black"></ion-icon>
+      </ion-buttons>
+      <ion-title><i>Oompa Loompa</i>  </ion-title>
+    </ion-toolbar >
+</ion-header>
+
+<ion-content padding>
+   <ion-card >
+    <ion-card-header text-center>
+      <img [src]="employee.image"  class="avatar"/><br><br>
+      <ion-card-title>{{employee.first_name}}  {{employee.last_name}}
+        <ion-icon *ngIf="employee.gender == 'F'"
+        style="float: right;" class= "color-woman" name="woman" style="zoom:1.0;">
+        </ion-icon>
+        <ion-icon *ngIf="employee.gender == 'M'"
+        style="float: right;" color= "primary" name="man" style="zoom:1.0;">
+        </ion-icon>
+      </ion-card-title>
+    </ion-card-header>
+    <ion-item>
+     <ion-icon name="briefcase" slot="start" style="zoom:0.5;" class="color-icon"></ion-icon>
+     <ion-label>{{employee.profession}}</ion-label>
+   </ion-item >
+   <ion-item >
+      <ion-icon name="mail" slot="start" style="zoom:0.5;" class="color-icon"></ion-icon>
+      <ion-label>{{employee.email}}</ion-label>
+   </ion-item>
+   <ion-item>
+       <ion-icon name="person" slot="start" style="zoom:0.5;" class="color-icon"></ion-icon>
+       <ion-label>{{employee.id}}</ion-label>
+   </ion-item><br>
+   <ion-item>
+     <p>Your personal data is registered in our database.</p>
+   </ion-item>
+  </ion-card>
+
+</ion-content>
