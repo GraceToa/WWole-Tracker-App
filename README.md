@@ -9,9 +9,9 @@ Aplicación híbrida desarrollada en Ionic Framework, display in iOS & Android.
  
  
  
-![Captura de pantalla 2019-03-16 a las 11 24 38](https://user-images.githubusercontent.com/10947013/96990440-678af580-1527-11eb-8453-fbb7b31ad03a.png)![Captura de pantalla 2019-03-16 a las 11 26 17](https://user-images.githubusercontent.com/10947013/54477347-25f07f80-4807-11e9-9afb-d5939475d59a.png)
+![Captura de pantalla 2019-03-16 a las 11 24 38](https://user-images.githubusercontent.com/10947013/96990440-678af580-1527-11eb-8453-fbb7b31ad03a.png)![Captura de pantalla 2019-03-16 a las 11 26 17](https://user-images.githubusercontent.com/10947013/96990825-ea13b500-1527-11eb-8edd-00ddb727a9bb.png)
 
-![Captura de pantalla 2019-03-16 a las 11 26 35](https://user-images.githubusercontent.com/10947013/54477368-57694b00-4807-11e9-85f5-d7f1c98e8739.png)![Captura de pantalla 2019-03-16 a las 11 26 59](https://user-images.githubusercontent.com/10947013/54477395-add68980-4807-11e9-8da2-e26ba268dc3e.png)
+![Captura de pantalla 2019-03-16 a las 11 26 35](https://user-images.githubusercontent.com/10947013/96990700-b9cc1680-1527-11eb-89f2-5603a1960248.png)![Captura de pantalla 2019-03-16 a las 11 26 59](https://user-images.githubusercontent.com/10947013/96991075-3828b880-1528-11eb-9386-4a82d83615cf.png)
 
 ![Captura de pantalla 2019-03-16 a las 11 27 26](https://user-images.githubusercontent.com/10947013/54477910-e88ef080-480c-11e9-9aa6-54e878b0337a.png)![Captura de pantalla 2019-03-16 a las 17 27 18](https://user-images.githubusercontent.com/10947013/54478305-e9c21c80-4810-11e9-81a2-497a5c8ca857.png)
 
@@ -23,7 +23,7 @@ Aplicación híbrida desarrollada en Ionic Framework, display in iOS & Android.
 
 ![Captura de pantalla 2019-03-16 a las 11 28 06](https://user-images.githubusercontent.com/10947013/54477988-ab772e00-480d-11e9-8268-2ed9c53f8225.png)![Captura de pantalla 2019-03-16 a las 11 32 17](https://user-images.githubusercontent.com/10947013/54478114-2a209b00-480f-11e9-974e-414fea7f9a0a.png)
 
-![Captura de pantalla 2019-03-16 a las 11 28 20](https://user-images.githubusercontent.com/10947013/54478240-38bb8200-4810-11e9-80fa-9c66f1b3abf9.png)![Captura de pantalla 2019-03-16 a las 17 22 17](https://user-images.githubusercontent.com/10947013/54478247-57217d80-4810-11e9-8f40-8d2ccd922547.png)
+![Captura de pantalla 2019-03-16 a las 11 28 20](https://user-images.githubusercontent.com/10947013/54478240-38bb8200-4810-11e9-80fa-9c66f1b3abf9.png)![Captura de pantalla 2019-03-16 a las 17 22 17](https://user-images.githubusercontent.com/10947013/96990900-01eb3900-1528-11eb-8173-e5333bc5805b.png)
 
 
 
