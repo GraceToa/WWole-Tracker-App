@@ -3,7 +3,7 @@
       <ion-buttons slot= "start" (click)="goBack()">
           <ion-icon name="arrow-back" style="color: black"></ion-icon>
       </ion-buttons>
-      <ion-title><i>Oompa Loompa</i>  </ion-title>
+      <ion-title>Oompa Loompa</ion-title>
     </ion-toolbar >
 </ion-header>
 
@@ -32,9 +32,12 @@
        <ion-icon name="person" slot="start" style="zoom:0.5;" class="color-icon"></ion-icon>
        <ion-label>{{employee.id}}</ion-label>
    </ion-item><br>
-   <ion-item>
-     <p>Your personal data is registered in our database.</p>
-   </ion-item>
+  <ion-card-content>
+    <p style="font-size: 90%">Your personal data is registered in our database.<br>
+      Willy Wonka INC
+    </p>
+  </ion-card-content>
+
   </ion-card>
 
 </ion-content>

@@ -8,11 +8,14 @@ import { SearchPageRoutingModule } from './search-routing.module';
 
 import { SearchPage } from './search.page';
 
+import {PipesModule} from './../../pipes/pipes.module';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
+    PipesModule,
     SearchPageRoutingModule
   ],
   declarations: [SearchPage]

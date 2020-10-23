@@ -1,12 +1,11 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title > <p align= "center" class="title-color"><i>WWol Tracker</i></p></ion-title>
+    <ion-title > <p align= "center" class="title-color">WWol Tracker</p></ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
   <ion-list no-lines>
-    <!-- <ion-item-divider color="light">A</ion-item-divider> -->
     <ion-item button *ngFor="let item of _es.employees" (click)="goDetailEmployee(item)">
       <ion-avatar slot="start">
         <img [src]="item.image" >

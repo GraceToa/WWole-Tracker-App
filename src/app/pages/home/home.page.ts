@@ -1,4 +1,4 @@
-import { Component, OnInit,ViewChild } from '@angular/core';
+import { Component,ViewChild } from '@angular/core';
 import { IonInfiniteScroll, NavController } from '@ionic/angular';
 //providers
 import {EmployeesService} from "../../../providers/employees.service";
@@ -14,13 +14,9 @@ export class HomePage {
   data = [];
   descending: boolean = false;
   order: number;
-
-
-  employees:string[];
-
+  
   constructor(public _es: EmployeesService, private navCtrl: NavController) {
   }
-
 
 //InfiniteScroll
   loadData(event){
@@ -36,8 +32,6 @@ export class HomePage {
            }, 500);
         })
   }
-
-
 
 //Go to View DetailEmployee
   goDetailEmployee(item){
