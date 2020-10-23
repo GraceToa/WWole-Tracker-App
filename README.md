@@ -2,10 +2,21 @@
 
 Aplicación híbrida desarrollada en Ionic Framework, display in iOS & Android.
 
- WWole "Willy Wonka Ompa Loompa" es una aplicación desarrollada para el seguimiento del equipo de trabajo "Ompa Loompa", contiene 2 opciones de pantalla (tabs).
- Home: despliega en un list los empleados del equipo, los datos se obtienen desde un JSON, y mediante el módulo HttpClient que provee Angular así como la implementación de providers para estructurar la aplicación, a la vez se accede a una nueva ventana que muestra a detalle la información de cada empleado.
- Filter: mediante un segmentController despliega dos opciones, los datos del equipo se filtran según género.
- Search: realiza una búsqueda por nombre sobre los datos del equipo, a la vez podemos acceder al detalle de cada empleado.
+ <strong>WWole "Willy Wonka Ompa Loompa"</strong> es una aplicación desarrollada para el seguimiento del equipo de trabajo "Ompa Loompa", contiene 2 opciones de pantalla (tabs).
+ - Home: despliega en un list los empleados del equipo, los datos se obtienen desde un JSON, y mediante el módulo HttpClient que provee Angular así como la implementación de providers para estructurar la aplicación, a la vez se accede a una nueva ventana que muestra a detalle la información de cada empleado.
+ - Filter: mediante un segmentController despliega dos opciones, los datos del equipo se filtran según género.
+ - Search: realiza una búsqueda por nombre sobre los datos del equipo, a la vez podemos acceder al detalle de cada empleado.
+ 
+ 
+## Autor
+Grace Toa  (App Developer)
+
+## Feature
+- Ionic Framework
+- Atom
+- JSON 
+- HttpClient
+- iPhone X
  
  
  
