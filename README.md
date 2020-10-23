@@ -1,14 +1,15 @@
-# App Ionic 4
+# WWole Tracker App
 
-Aplicación híbrida desarrollada en Ionic Framework, AngularJS, MySQL,CodeIgniter.
+Aplicación híbrida desarrollada en Ionic Framework, display in iOS & Android.
 
-
-StoreApp es una tienda online de una variedad de productos relacionados con el transporte en general, desde donde se puede adquirir los productos y realizar la orden previamente haberse logueado.
-
+ WWole "Willy Wonka Ompa Loompa" es una aplicación desarrollada para el seguimiento del equipo de trabajo "Ompa Loompa", contiene 2 opciones de pantalla (tabs).
+ Home: despliega en un list los empleados del equipo, los datos se obtienen desde un JSON, y mediante el módulo HttpClient que provee Angular así como la implementación de providers para estructurar la aplicación, a la vez se accede a una nueva ventana que muestra a detalle la información de cada empleado.
+ Filter: mediante un segmentController despliega dos opciones, los datos del equipo se filtran según género.
+ Search: realiza una búsqueda por nombre sobre los datos del equipo, a la vez podemos acceder al detalle de cada empleado.
  
-StoreApp es una aplicación que se puede visualizar tanto para Android como para iOS, implementa un servicio backend (CodeIgniter) que genera un Rest Server. Uso de base de datos MySQL.
-
-![Captura de pantalla 2019-03-16 a las 11 24 38](https://user-images.githubusercontent.com/10947013/54477287-dc079980-4806-11e9-8a69-26dcc77d4327.png)![Captura de pantalla 2019-03-16 a las 11 26 17](https://user-images.githubusercontent.com/10947013/54477347-25f07f80-4807-11e9-9afb-d5939475d59a.png)
+ 
+ 
+![Captura de pantalla 2019-03-16 a las 11 24 38](https://user-images.githubusercontent.com/10947013/96990440-678af580-1527-11eb-8453-fbb7b31ad03a.png)![Captura de pantalla 2019-03-16 a las 11 26 17](https://user-images.githubusercontent.com/10947013/54477347-25f07f80-4807-11e9-9afb-d5939475d59a.png)
 
 ![Captura de pantalla 2019-03-16 a las 11 26 35](https://user-images.githubusercontent.com/10947013/54477368-57694b00-4807-11e9-85f5-d7f1c98e8739.png)![Captura de pantalla 2019-03-16 a las 11 26 59](https://user-images.githubusercontent.com/10947013/54477395-add68980-4807-11e9-8da2-e26ba268dc3e.png)
 
