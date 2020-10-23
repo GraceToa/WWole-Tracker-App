@@ -1,0 +1,18 @@
+ion-segment{
+  color: #bba08d;
+}
+ion-segment-button {
+    min-height: 40px;
+    line-height: 1.5rem !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    --color-checked: blue;
+    --background-checked:  #bba08d;
+}
+
+ion-title{
+		font-size: 1.0em;
+		width: 100%;
+		font-weight: bolder;
+		color: #6B3909;
+	}

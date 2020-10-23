@@ -1,20 +1,7 @@
-<ion-content class="ion-padding">
-  <ion-segment [(ngModel)]="type" (ionChange)="segmentChanged($event)">
-    <ion-segment-button value="deposit" checked>
-      <ion-label>Employee</ion-label>
-      <ion-icon name="person"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="loan">
-      <ion-label>Gender</ion-label>
-      <ion-icon name="woman"></ion-icon>
-    </ion-segment-button>
-  </ion-segment>
-  <ion-searchbar [(ngModel)]="terms"></ion-searchbar>
-  <div [ngSwitch]="type">
-  
-    <ion-list *ngSwitchCase="'deposit'">
-      <!-- <ion-item-divider color="light">A</ion-item-divider> -->
-      <ion-item button *ngFor="let item of _es.employees" (click)="goDetailEmployee(item)">
+<ion-content>
+  <ion-searchbar animated (ionChange)= "searchEmployee($event)"></ion-searchbar>
+    <ion-list>
+      <ion-item button *ngFor="let item of _es.employees | search: textSearch: 'first_name'" (click)="goDetailEmployee(item)">
         <ion-avatar slot="start">
           <img [src]="item.image" >
         </ion-avatar>
@@ -29,22 +16,4 @@
          <ion-icon ios="ios-arrow-forward" md="md-arrow-forward" item-left></ion-icon>
       </ion-item>
     </ion-list>
-
-    <ion-list *ngSwitchCase="'loan'">
-      <ion-item>
-        <ion-thumbnail slot="start">
-          <img src="https://avatars.io/instagram/unknown">
-        </ion-thumbnail>
-        <h6>Loan 2</h6>
-      </ion-item>
-    </ion-list>
-  </div>
 </ion-content>
-
-<!-- <ion-item *ngFor="let c of countries | search : terms | sort: {property: column, order: order}">
-  <ion-avatar item-left>
-    <img src="{{c.flag}}">
-  </ion-avatar>
-  <h2>{{c.name}}</h2>
-  <p>Capital: {{c.capital}}, Region: {{c.region}}</p>
-</ion-item> -->

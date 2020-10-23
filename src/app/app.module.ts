@@ -13,11 +13,13 @@ import { IonInfiniteScroll,IonVirtualScroll,AlertController } from '@ionic/angul
 import {HttpClientModule} from "@angular/common/http";
 //services
 import {EmployeesService} from "../providers/employees.service";
+//pipes
+import {PipesModule} from "./pipes/pipes.module";
 
 @NgModule({
   declarations: [AppComponent],
   entryComponents: [],
-  imports: [BrowserModule, IonicModule.forRoot(),HttpClientModule, AppRoutingModule],
+  imports: [BrowserModule, IonicModule.forRoot(),HttpClientModule, AppRoutingModule,PipesModule],
   providers: [
     StatusBar,
     SplashScreen,

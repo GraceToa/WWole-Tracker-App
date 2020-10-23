@@ -16,6 +16,10 @@ const routes: Routes = [
         loadChildren: () => import('../pages/search/search.module').then(m => m.SearchPageModule)
       },
       {
+        path: 'filter',
+        loadChildren: () => import('../pages/filter-gender/filter-gender.module').then(m => m.FilterGenderPageModule)
+      },
+      {
         path: '',
         redirectTo: '/tabs/home',
         pathMatch: 'full'

@@ -17,6 +17,10 @@ const routes: Routes = [
   {
     path: 'detail-employee',
     loadChildren: () => import('./pages/detail-employee/detail-employee.module').then( m => m.DetailEmployeePageModule)
+  },
+  {
+    path: 'filter-gender',
+    loadChildren: () => import('./pages/filter-gender/filter-gender.module').then( m => m.FilterGenderPageModule)
   }
 ];
 @NgModule({
