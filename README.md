@@ -15,6 +15,10 @@ Aplicación híbrida desarrollada en Ionic Framework, display in iOS & Android.
 
 ![Captura de pantalla 2019-03-16 a las 11 27 26](https://user-images.githubusercontent.com/10947013/96991259-78883680-1528-11eb-82b6-b1921f7983e2.png)![Captura de pantalla 2019-03-16 a las 17 27 18](https://user-images.githubusercontent.com/10947013/54478305-e9c21c80-4810-11e9-81a2-497a5c8ca857.png)
 
+![Captura de pantalla 2019-03-16 a las 11 27 26](https://user-images.githubusercontent.com/10947013/96991656-12e87a00-1529-11eb-9288-16c1c7747f84.png)![Captura de pantalla 2019-03-16 a las 17 27 18](https://user-images.githubusercontent.com/10947013/54478305-e9c21c80-4810-11e9-81a2-497a5c8ca857.png)
+
+
+
 ![Captura de pantalla 2019-03-16 a las 17 22 17](https://user-images.githubusercontent.com/10947013/96990900-01eb3900-1528-11eb-8173-e5333bc5805b.png)
 
 
