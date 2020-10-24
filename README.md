@@ -7,7 +7,7 @@
 WWloe App for maciOS & Android
 </td></tr></table>
 
- <strong>WWole "Willy Wonka Ompa Loompa"</strong> es una aplicación desarrollada para el seguimiento del equipo de trabajo "Ompa Loompa", contiene 2 opciones de pantalla (tabs).
+ <strong>WWole "Willy Wonka Ompa Loompa"</strong> es una aplicación desarrollada para el seguimiento del equipo de trabajo "Ompa Loompa", contiene tres opciones de pantalla (tabs).
  - Home: despliega en un list los empleados del equipo, los datos se obtienen desde un JSON, y mediante el módulo HttpClient que provee Angular así como la implementación de providers para estructurar la aplicación, a la vez se accede a una nueva ventana que muestra a detalle la información de cada empleado.
  - Filter: mediante un segmentController despliega dos opciones, los datos del equipo se filtran según género.
  - Search: realiza una búsqueda por nombre sobre los datos del equipo, a la vez podemos acceder al detalle de cada empleado.
@@ -41,6 +41,19 @@ Grace Toa  (App Developer)
         <td><img src="https://user-images.githubusercontent.com/10947013/96992289-f567e000-1529-11eb-8aac-ee75607b221d.png"             width="250" alt="login"></td> 
     </tr>
  
+</table>
+
+
+<table border="3" bordercolor="black" align="center">
+    <tr>
+        <th colspan="3">Galaxy S5 </th> 
+    </tr>
+    <tr>
+        <td><img src="https://user-images.githubusercontent.com/10947013/97070731-f278f800-15da-11eb-8bbb-90a3db5b6daa.png"             width="250" alt="login"></td>
+        <td><img src="https://user-images.githubusercontent.com/10947013/97070742-0d4b6c80-15db-11eb-8b6d-094ec4bde8cd.png"             width="250" alt="register"></td>
+        <td><img src="https://user-images.githubusercontent.com/10947013/97070754-26541d80-15db-11eb-81ca-6edc01499c4e.png"              width="250" alt="profile"></td>      
+    </tr>
+      
 </table>
 
 
