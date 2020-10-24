@@ -46,7 +46,7 @@ Grace Toa  (App Developer)
         <tr>
         <td><img src="https://user-images.githubusercontent.com/10947013/96990700-b9cc1680-1527-11eb-89f2-5603a1960248.png"             width="250" alt="login"></td>
         <td><img src="https://user-images.githubusercontent.com/10947013/96991075-3828b880-1528-11eb-9386-4a82d83615cf.png"             width="250" alt="register"></td>
-        <td><img src="https://user-images.githubusercontent.com/10947013/96991656-12e87a00-1529-11eb-9288-16c1c7747f84.png"              width="250" alt="profile"></td>      
+        <td><img src="https://user-images.githubusercontent.com/10947013/96992151-c3ef1480-1529-11eb-9ed0-7ca18ec46a2a.png"              width="250" alt="profile"></td>      
     </tr>
      <tr>
          <td><img src="https://user-images.githubusercontent.com/10947013/96991656-12e87a00-1529-11eb-9288-16c1c7747f84.png"              width="250" alt="profile"></td> 
