@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://user-images.githubusercontent.com/10947013/57033303-e19d2f80-6c4c-11e9-8548-8afa9d734957.png" align="center" width="150" alt="Project icon">
+<img src="https://user-images.githubusercontent.com/10947013/97070511-33700d00-15d9-11eb-99cf-f223f4126928.jpeg" align="center" width="150" alt="Project icon">
 
 # WWole Tracker App
 
@@ -16,7 +16,7 @@ WWloe App for maciOS & Android
 Grace Toa  (App Developer)
 
 ## Feature
-- Ionic Framework
+- Ionic Framework 4
 - Atom
 - JSON 
 - HttpClient
@@ -33,13 +33,11 @@ Grace Toa  (App Developer)
         <tr>
         <td><img src="https://user-images.githubusercontent.com/10947013/96990700-b9cc1680-1527-11eb-89f2-5603a1960248.png"             width="250" alt="login"></td>
         <td><img src="https://user-images.githubusercontent.com/10947013/96991075-3828b880-1528-11eb-9386-4a82d83615cf.png"             width="250" alt="register"></td>
-        <td><img src=""              width="250" alt="profile"></td>      
     </tr>
      <tr>
          <td><img src="https://user-images.githubusercontent.com/10947013/96992151-c3ef1480-1529-11eb-9ed0-7ca18ec46a2a.png"             width="250" alt="register"></td> 
          <td><img src="https://user-images.githubusercontent.com/10947013/96991656-12e87a00-1529-11eb-9288-16c1c7747f84.png"              width="250" alt="profile"></td> 
-        <td><img src="https://user-images.githubusercontent.com/10947013/96992289-f567e000-1529-11eb-8aac-ee75607b221d.png"             width="250" alt="login"></td>
-    
+        <td><img src="https://user-images.githubusercontent.com/10947013/96992289-f567e000-1529-11eb-8aac-ee75607b221d.png"             width="250" alt="login"></td> 
     </tr>
  
 </table>
