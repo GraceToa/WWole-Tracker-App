@@ -1,7 +1,8 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://user-images.githubusercontent.com/10947013/97070511-33700d00-15d9-11eb-99cf-f223f4126928.jpeg" align="center" width="250" alt="Project icon">
 
 # WWole Tracker App
+
+<img src="https://user-images.githubusercontent.com/10947013/97070511-33700d00-15d9-11eb-99cf-f223f4126928.jpeg" align="center" width="250" alt="Project icon">
 
 WWloe App for maciOS & Android
 </td></tr></table>
